@@ -1,7 +1,7 @@
 Minetest Mobs Dolphin
 ========================
 
-Mobs Dolphin for Minetest <http://minetest.net> adds cute little peaceful dolphins to the game.
+Mobs Dolphin for Minetest <http://minetest.net> adds peaceful dolphins to the game.
 
 ![screenshot](http://i64.tinypic.com/33ae261.png)
 
