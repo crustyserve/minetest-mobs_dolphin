@@ -1,1 +1,0 @@
-http://minecraft.novaskin.me/resourcepacks#mocreatures/assets/mocreatures/textures/models/dolphin5.png
