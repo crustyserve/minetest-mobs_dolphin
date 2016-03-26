@@ -30,7 +30,7 @@ if mobs.mod and mobs.mod == "redo" then
 		fly = true,
 		fly_in = "default:water_source",
 		fall_speed = 0,
-		rotate = 270,
+		rotate = 0,
 		view_range = 10,
 		water_damage = 0,
 		lava_damage = 10,
