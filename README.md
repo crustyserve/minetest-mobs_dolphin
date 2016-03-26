@@ -3,6 +3,8 @@ Minetest Mobs Dolphin
 
 Mobs Dolphin for Minetest <http://minetest.net> adds peaceful dolphins to the game.
 
+Minetest forum link: <https://forum.minetest.net/viewtopic.php?f=9&t=14287>
+
 ![screenshot](http://i64.tinypic.com/33ae261.png)
 
 ## Dependencies
