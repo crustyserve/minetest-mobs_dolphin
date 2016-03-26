@@ -14,8 +14,6 @@ To install, just clone this repository into your "mods" directory.
 ## Models
 Original blender model is included in the `blender` folder.
 
-## Known Bugs
- - Dolphins are swimming sideways, maybe rotate model ?
 
 ## Licenses
 - code: DWYWPL
