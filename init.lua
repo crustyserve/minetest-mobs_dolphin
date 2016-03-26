@@ -22,7 +22,7 @@ if mobs.mod and mobs.mod == "redo" then
 	    random = "dolphin",
 	  },
 		drops = {
-        {name = "ethereal:fish_raw", chance = 1, min = 1, max = 1},
+        {name = "mobs:meat_raw", chance = 1, min = 1, max = 1},
     },
 		makes_footstep_sound = false,
 		walk_velocity = 4,
